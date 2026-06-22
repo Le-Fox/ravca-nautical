@@ -1,0 +1,11 @@
+{
+  "name": "ravca-nautical",
+  "version": "1.0.0",
+  "description": "Premium maritime supply & consulting landing page",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  },
+  "author": "Ravca Nautical",
+  "license": "ISC"
+}
